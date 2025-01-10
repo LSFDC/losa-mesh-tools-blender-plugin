@@ -2,7 +2,7 @@
 
 # Lost Saga IO3D Blender Plugin
 Blender add-on to import/export various Lost Saga formats. Supported files are `skl`/`msh`/`ani`.<br>
-This project maintained by [Trisnox]("https://github.com/Trisnox")
+This project maintained by [Trisnox](https://github.com/Trisnox)
 
 # Installation
 [Download this addon](https://github.com/Trisnox/lost-saga-io3d/releases/latest), then either drag and drop zip into blender, or go to `Edit > Preferences > Add-ons > Install from disk` and select the zip file.
@@ -45,9 +45,9 @@ Thanks to zex (imageliner on Discord) for showing me the correct rotation for Lo
 - Events handler (animation have events, which stores certain event such as audio, sfx, fx, and many more. The resource folder can be used for this)
 
 # Support
-You can contact author through discord ([trisnox](https://discord.com/users/543595002031243300)) or through author [discord server](https://discord.gg/dJUMU9Gkw2) or [Lost Saga For Developer Community]("https://discord.gg/b5MeZxYEZf").
+You can contact author through discord ([trisnox](https://discord.com/users/543595002031243300)) or through author [discord server](https://discord.gg/dJUMU9Gkw2) or [LSFD Community](https://discord.gg/b5MeZxYEZf).
 
 # License
 
-License under the [GPL-3.0]("./LICENSE").
+License under the [GPL-3.0](./LICENSE).
 
